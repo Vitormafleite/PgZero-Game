@@ -43,7 +43,6 @@ pip install pgzero
 
 Then run the game:
 
-```bash
 pgzrun main.py
 
 🖼️ Screenshots
