@@ -41,12 +41,9 @@ Install `pgzero` via pip if you haven't:
 ```bash
 pip install pgzero
 
-Then run the game:
-
 pgzrun main.py
 
 🖼️ Screenshots
-
 🏁 Gameplay Start
 
 📋 Main Menu
