@@ -40,23 +40,31 @@ Install `pgzero` via pip if you haven't:
 
 ```bash
 pip install pgzero
-
 pgzrun main.py
+```
 
-🖼️ Screenshots
-🏁 Gameplay Start
+## 🖼️ Screenshots
 
-📋 Main Menu
+### 🏁 Gameplay Start
+![Gameplay Start](screenshots/gameplay_one.png)
 
-🎉 Winning Moment
+### 📋 Main Menu
+![Main Menu](screenshots/menu.png)
 
-📁 Project Structure
+### 🎉 Winning Moment
+![Victory Screen](screenshots/winning.png)
 
+## 📁 Project Structure
+
+```
 project/
 ├── main.py           # Main game logic
 ├── images/           # Sprites and background images
 ├── sounds/           # Sound effects
 ├── README.md         # This file
 └── screenshots/      # Place your screenshots here
+```
+
+---
 
 Happy platforming! 🎉
