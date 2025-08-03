@@ -42,6 +42,16 @@ Install `pgzero` via pip if you haven't:
 pip install pgzero
 pgzrun main.py
 ```
+## 📁 Project Structure
+
+```
+project/
+├── main.py           # Main game logic
+├── images/           # Sprites and background images
+├── sounds/           # Sound effects
+├── README.md         # This file
+└── screenshots/      # Place your screenshots here
+```
 
 ## 🖼️ Screenshots
 
@@ -54,17 +64,3 @@ pgzrun main.py
 ### 🎉 Winning Moment
 ![Victory Screen](screenshots/winning.png)
 
-## 📁 Project Structure
-
-```
-project/
-├── main.py           # Main game logic
-├── images/           # Sprites and background images
-├── sounds/           # Sound effects
-├── README.md         # This file
-└── screenshots/      # Place your screenshots here
-```
-
----
-
-Happy platforming! 🎉
